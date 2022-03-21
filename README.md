@@ -1,8 +1,8 @@
-# syslrn dataset
+# syslrn: Learning What to Monitor for Efficient Anomaly Detection [Dataset]
 
 This repository contains the dataset for the paper
 
-[***"syslrn: Learning What to Monitor for Efficient Anomaly Detection" (D. Sanvito et al., EuroMLSys 2022)***](https://doi.org/10.1145/3517207.3526979)
+[_D. Sanvito, G. Siracusano, S. Santhanam, R. Gonzalez, R. Bifulco - **syslrn: Learning What to Monitor for Efficient Anomaly Detection** [ACM EuroMLSys 2022]_](https://doi.org/10.1145/3517207.3526979)
 
 Dataset URL: [https://zenodo.org/record/XXX](https://zenodo.org/record/XXX)
 
