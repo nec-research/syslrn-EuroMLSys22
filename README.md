@@ -7,7 +7,7 @@ This repository contains the dataset for the paper
 Dataset URL: [https://zenodo.org/record/XXX](https://zenodo.org/record/XXX)
 
 ## Reference
-If you use syslrn for your research, please cite the following paper:
+If you use this dataset for your research, please cite the following paper:
 ```
 @inproceedings{sanvito2022syslrn,
   title={syslrn: Learning What to Monitor for Efficient Anomaly Detection},
