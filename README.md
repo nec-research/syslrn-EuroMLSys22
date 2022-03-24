@@ -4,7 +4,7 @@ This repository contains the dataset for the paper
 
 [_D. Sanvito, G. Siracusano, S. Santhanam, R. Gonzalez, R. Bifulco - **syslrn: Learning What to Monitor for Efficient Anomaly Detection** [ACM EuroMLSys 2022]_](https://doi.org/10.1145/3517207.3526979)
 
-Dataset URL: [https://zenodo.org/record/XXX](https://zenodo.org/record/XXX)
+Dataset URL: [https://zenodo.org/record/6374398](https://zenodo.org/record/6374398)
 
 ## Reference
 If you use this dataset for your research, please cite the following paper:
